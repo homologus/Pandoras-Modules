@@ -1,7 +1,7 @@
-Electrophorus
-=============
+Pandora's Modules
+=================
 
-Electrophorus is the place to start, if you want to shock someone with the speed, quality and reusability 
+'Pandora's Modules' is the place to start, if you want to shock someone with the speed, quality and reusability 
 of your bioinformatics programs. This is a collection of some of the best modules released under MIT/BSD
 type license (no copy-left ones) available online. We added or are in the process of adding a few missing 
 blocks here and there and released all of them under MIT license.
